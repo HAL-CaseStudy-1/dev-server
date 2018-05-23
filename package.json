@@ -1,0 +1,23 @@
+{
+  "name": "@konojunya/dev-server",
+  "version": "1.0.0",
+  "description": "ValuableSelectのdevelop用のサーバー",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAL-CaseStudy-1/dev-server.git"
+  },
+  "keywords": [],
+  "author": "konojunya <junya.developer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HAL-CaseStudy-1/dev-server/issues"
+  },
+  "homepage": "https://github.com/HAL-CaseStudy-1/dev-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

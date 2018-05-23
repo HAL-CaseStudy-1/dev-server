@@ -2,7 +2,7 @@
 
 ValuableSelectのdevelop用のサーバー
 
-[ValuableSelect Dev Server](https://konojunyadev-server-zkyygpfrmu.now.sh)
+[ValuableSelect Dev Server](https://case-dev-server-mpxkzauyre.now.sh)
 
 ## 開発
 
@@ -15,5 +15,5 @@ $ npm start
 
 ```bash
 # deploy to now
-$ now
+$ make deploy
 ```
